@@ -1,0 +1,22 @@
+{
+  "name": "testOfLib",
+  "version": "0.1.0",
+  "summary": "A short description of testOfLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gabe351/testOfLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gabe351": "gabrielrosadn@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/gabe351/testOfLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testOfLib/Classes/**/*"
+}
